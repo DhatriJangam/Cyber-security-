@@ -1,0 +1,7 @@
+[{"Pressed": "Key.shift"}, {"Held": "Key.shift"}, {"Held": "'c'"}, {"Released": "Key.shift"}, {"Released": "'c'"}, {"Pressed": "'c'"},
+  {"Held": "'y'"}, {"Held": "'b'"}, {"Released": "'y'"}, {"Released": "'b'"}, {"Pressed": "'y'"}, {"Held": "'e'"}, {"Released": "'e'"}, 
+  {"Pressed": "'b'"}, {"Held": "'r'"}, {"Held": "'s'"}, {"Released": "'r'"}, {"Released": "'s'"}, {"Pressed": "'e'"}, {"Held": "'e'"}, 
+  {"Released": "'e'"}, {"Pressed": "r"}, {"Held": "c"}, {"Released": "c"}, {"Pressed": "'s'"}, {"Held": "'u'"}, {"Released": "'u'"}, 
+  {"Pressed": "'e'"}, {"Held": "'r'"}, {"Held": "i"}, {"Released": "'r'"}, {"Released": "i"}, {"Pressed": "'c'"}, {"Held": "'t'"}, 
+  {"Released": "'t'"}, {"Pressed": "u"}, {"Held": "y"}, {"Released": "y"}, {"Pressed": "'r'"}, {"Held": "' '"}, {"Released": "' '"}, 
+  {"Pressed": "'i'"}, {"Held": "' '"}, {"Released": "' '"}, {"Pressed": "'t'"}, {"Held": "' '"}, {"Released": "' '"}, {"Pressed": "'y'"}, eased": "Key.space"}]
